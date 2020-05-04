@@ -1,8 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">徽章魔术</string>
-
     <string name="enable_bluetooth">您必须打开蓝牙才能使用发送功能</string>
-
     <string name="flash">闪</string>
     <string name="marquee">华盖</string>
     <string name="speed">速度</string>
@@ -22,10 +21,10 @@
     <string name="enter_text">输入文字</string>
     <string name="image_bitmap_description">位图图像</string>
     <string name="save_button">保存</string>
-    <string name="saved_badge">Saved Badge</string>
     <string name="save_hint">文件名</string>
     <string name="validation_save_dialog">继续之前输入文件名</string>
     <string name="save_dialog_title">保存徽章</string>
+    <string name="saved_badge">Saved Badge</string>
     <string name="saved_configurations">保存的徽章</string>
     <string name="saveactivity_operation_title">执行操作</string>
     <string name="delete">删除</string>
@@ -40,11 +39,9 @@
     <string name="sending_data">发送数据。</string>
     <string name="transfer_button">传递</string>
     <string name="effects">效果</string>
-
     <string name="navigation_drawer_open">打开导航抽屉</string>
     <string name="navigation_drawer_close">关闭导航抽屉</string>
     <string name="nav_header_desc">导航标题</string>
-
     <string name="drawer_other">其他</string>
     <string name="drawer_feedback">反馈/错误报告</string>
     <string name="drawer_buy_badge">买徽章</string>
@@ -77,11 +74,9 @@
     <string name="disabled">您的设备不支持应用程序快捷方式。</string>
     <string name="empty_text_to_send">请输入要发送的内容</string>
     <string name="bluetooth_enabled">蓝牙已打开。</string>
-
     <string name="language">语言</string>
     <string name="drawer_settings">设置</string>
     <string name="change_language">为了更改语言，我们需要重新启动应用程序。</string>
-
     <string name="reset">重启</string>
     <string name="draw_text">画</string>
     <string name="erase_text">抹去</string>
